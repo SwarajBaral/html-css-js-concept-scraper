@@ -1,5 +1,5 @@
 # html-css-js-concept-scraper
-A python script to that extracts the concepts of html css and js from [w3schools](www.w3schools.com) inside your terminal.
+A python script to that extracts the concepts of html css and js from [w3schools](https://www.w3schools.com/) inside your terminal.
 The folder 'Script and Requirements' contains all the required elements needed to execute this script inside your terminal
 
 ## Getting Started
